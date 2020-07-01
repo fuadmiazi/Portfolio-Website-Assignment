@@ -1,0 +1,58 @@
+body{
+    font-family: 'Anton', sans-serif;
+}
+.name{
+    color: hotpink;
+    font-weight: 800;
+    font-size: 30px;
+}
+.button{
+    text-decoration: none;
+}
+
+section{
+    height: 1000px;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-top: 60px;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width image{
+    width: 100%;
+}
+.firstSection{
+    background-image: url("images/personal-website/header-bg.png");
+    background-repeat: no-repeat;
+}
+.secondSection{
+    background-image: url("images/personal-website/biography-bg.png");
+   
+}
+.latestWork{
+    background-image: url("images/personal-website/latest-work-bg.png");
+}
+.button{
+    background-color: hotpink;
+    padding: 5px 15px 5px 15px;
+    font-weight: 500;
+    color: white;
+    border-radius: 5px;
+}
+.work{
+    font-size: 50px;
+    text-align: center;
+    padding-top: 40px;
+}
+.workimages{
+    
+}
+#img{
+    width: 25%;
+    padding: 40px 8px 40px 8px;
+    margin-left: 100px;
+    margin-top: 80px;
+}
