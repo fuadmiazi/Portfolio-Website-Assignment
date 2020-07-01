@@ -56,3 +56,21 @@ section{
     margin-left: 100px;
     margin-top: 80px;
 }
+.clientsay{
+    background-image: url("images/personal-website/footer-bg.png");
+    background-repeat: no-repeat;
+}
+.whatclientsay{
+    font-size: 50px; 
+    text-align: center;
+    padding-bottom: 50px;
+}
+.red-box{
+    padding: 20px 60px 20px 60px;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 37%;
+    width: 20%;
+    text-align: center;
+    background-color: hotpink;
+}
